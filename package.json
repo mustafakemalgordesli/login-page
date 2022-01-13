@@ -1,0 +1,12 @@
+{
+  "name": "login-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sass --watch scss/main.scss main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
